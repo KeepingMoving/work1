@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.25)  6 SEP 2024 00:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.25)  12 SEP 2024 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1117,6 +1117,25 @@ Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
 \AP@partial=\box80
 \AP@footins=\box81
 )
+(c:/latex/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/latex/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count357
+\Gm@cntv=\count358
+\c@Gm@tempcnt=\count359
+\Gm@bindingoffset=\dimen308
+\Gm@wd@mp=\dimen309
+\Gm@odd@mp=\dimen310
+\Gm@even@mp=\dimen311
+\Gm@layoutwidth=\dimen312
+\Gm@layoutheight=\dimen313
+\Gm@layouthoffset=\dimen314
+\Gm@layoutvoffset=\dimen315
+\Gm@dimlist=\toks56
+)
 (c:/latex/texlive/2024/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
 File: UTF8.enc 2021/10/16 4.8.5
 )
@@ -1126,102 +1145,102 @@ File: UTF8.chr 2021/10/16 4.8.5
 (./於佳杰的LATEX.aux)
 \openout1 = `於佳杰的LATEX.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 (c:/latex/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count357
-\scratchdimen=\dimen308
+\scratchcounter=\count360
+\scratchdimen=\dimen316
 \scratchbox=\box82
-\nofMPsegments=\count358
-\nofMParguments=\count359
-\everyMPshowfont=\toks56
-\MPscratchCnt=\count360
-\MPscratchDim=\dimen309
-\MPnumerator=\count361
-\makeMPintoPDFobject=\count362
-\everyMPtoPDFconversion=\toks57
+\nofMPsegments=\count361
+\nofMParguments=\count362
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count363
+\MPscratchDim=\dimen317
+\MPnumerator=\count364
+\makeMPintoPDFobject=\count365
+\everyMPtoPDFconversion=\toks58
 ) (c:/latex/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1231,30 +1250,64 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count363
+\c@lstlisting=\count366
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 24.
+ on input line 25.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 25.
 (./於佳杰的LATEX.out) (./於佳杰的LATEX.out)
 \@outlinefile=\write4
 \openout4 = `於佳杰的LATEX.out'.
 
-<o.png, id=163, 1007.765pt x 654.445pt>
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<o.png, id=167, 1007.765pt x 654.445pt>
 File: o.png Graphic file (type png)
 <use o.png>
-Package pdftex.def Info: o.png  used on input line 29.
-(pdftex.def)             Requested size: 345.0pt x 224.0462pt.
-LaTeX Font Info:    Trying to load font information for C70+rm on input line 34
+Package pdftex.def Info: o.png  used on input line 30.
+(pdftex.def)             Requested size: 472.03123pt x 306.54066pt.
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 35
 .
-
 (c:/latex/texlive/2024/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
 )
@@ -1280,7 +1333,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 ...�和替换历史}{23}{subsubsection.2.2.4}
+l.30 ...与代码补全}{29}{subsubsection.2.2.10}
                                                   % [1])
 \tf@toc=\write5
 \openout5 = `於佳杰的LATEX.toc'.
@@ -1288,436 +1341,758 @@ l.24 ...�和替换历史}{23}{subsubsection.2.2.4}
 
 
 [2]
-<1.png, id=337, 490.08093pt x 183.30984pt>
+<1.png, id=342, 490.08093pt x 183.30984pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 87.
-(pdftex.def)             Requested size: 345.0pt x 129.04604pt.
+Package pdftex.def Info: 1.png  used on input line 97.
+(pdftex.def)             Requested size: 472.03123pt x 176.56282pt.
 
+
+<okkl.jpg, id=348, 1047.915pt x 262.9825pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 110.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.98   \begin{itemize}
-                       [1{c:/latex/texlive/2024/texmf-dist/fonts/enc/dvips/cm-s
-uper/cm-super-ts1.enc} <./1.png>]
+l.110   \begin{verbatim}
+                         [1{c:/latex/texlive/2024/texmf-dist/fonts/enc/dvips/cm
+-super/cm-super-ts1.enc} <./okkl.jpg> <./1.png>]
 LaTeX Font Info:    Trying to load font information for C70+zhfs on input line 
-132.
+142.
 
 (c:/latex/texlive/2024/texmf-dist/tex/latex/zhmetrics/c70zhfs.fd
 File: c70zhfs.fd 2009/09/23 4.8.2
 )
 Package CJKpunct Info: use punctuation spaces for family 'zhfs' with punctstyle
- (quanjiao) on input line 132.
+ (quanjiao) on input line 142.
+<2.png, id=384, 592.83984pt x 287.19797pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 147.
+(pdftex.def)             Requested size: 472.03123pt x 228.68063pt.
+<3.png, id=385, 521.32266pt x 136.63547pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 148.
+(pdftex.def)             Requested size: 472.03123pt x 123.71715pt.
 
-Overfull \hbox (83.78473pt too wide) in paragraph at lines 132--132
- []        \OT1/cmtt/m/n/10.53937 echo "Script failed after $count attempts." >
-> "$output_file"[] 
- []
 
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 152.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.132   \end{verbatim}
-                       [2]
-<2.png, id=415, 592.83984pt x 287.19797pt>
-File: 2.png Graphic file (type png)
-<use 2.png>
-Package pdftex.def Info: 2.png  used on input line 137.
-(pdftex.def)             Requested size: 345.0pt x 167.14024pt.
-<3.png, id=416, 521.32266pt x 136.63547pt>
-File: 3.png Graphic file (type png)
-<use 3.png>
-Package pdftex.def Info: 3.png  used on input line 138.
-(pdftex.def)             Requested size: 345.0pt x 90.4236pt.
-
-Overfull \hbox (78.25162pt too wide) in paragraph at lines 160--160
- [] \OT1/cmtt/m/n/10.53937 find . -type f -name "*.html" -print0 | xargs -0 zip
- html_files.zip[] 
- []
-
-
-
-[3 <./2.png> <./3.png>]
-<4.png, id=430, 597.73312pt x 59.84859pt>
+l.152 \end{itemize}
+                    [2]
+<4.png, id=424, 597.73312pt x 59.84859pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
-Package pdftex.def Info: 4.png  used on input line 165.
-(pdftex.def)             Requested size: 345.0pt x 34.54416pt.
-
-Overfull \hbox (122.51651pt too wide) in paragraph at lines 203--203
- []\OT1/cmtt/m/n/10.53937 find "$DIR" -type f -printf "%T@ %p\n" | sort -n -r |
- while read -r line; do[] 
- []
+Package pdftex.def Info: 4.png  used on input line 175.
+(pdftex.def)             Requested size: 472.03123pt x 47.26341pt.
 
 
-Overfull \hbox (22.9205pt too wide) in paragraph at lines 203--203
- []    \OT1/cmtt/m/n/10.53937 mod_time=$(date -d @"$timestamp" "+%Y-%m-%d %H:%M
-:%S")[] 
- []
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 179.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
-<5.png, id=431, 436.25484pt x 152.82094pt>
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[3 <./2.png> <./3.png>]
+<5.png, id=436, 436.25484pt x 152.82094pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
-Package pdftex.def Info: 5.png  used on input line 208.
-(pdftex.def)             Requested size: 345.0pt x 120.85312pt.
+Package pdftex.def Info: 5.png  used on input line 218.
+(pdftex.def)             Requested size: 472.03123pt x 165.35426pt.
 
+
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 222.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
 
 [4 <./4.png>]
-
-[5 <./5.png>]
-Overfull \hbox (133.58273pt too wide) in paragraph at lines 257--257
+Overfull \hbox (6.5515pt too wide) in paragraph at lines 267--267
  []\OT1/cmtt/m/n/10.53937 mysqldump -h "$DB_HOST" -u "$DB_USER" -p"$DB_PASS" "$
 DB_NAME" > "$BACKUP_FILE"[] 
  []
 
-<6.png, id=452, 395.60297pt x 92.21953pt>
+
+
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 267.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[5 <./5.png>]
+<6.png, id=457, 395.60297pt x 92.21953pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
-Package pdftex.def Info: 6.png  used on input line 262.
-(pdftex.def)             Requested size: 345.0pt x 80.42451pt.
+Package pdftex.def Info: 6.png  used on input line 272.
+(pdftex.def)             Requested size: 472.03123pt x 110.03809pt.
 
+
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 319.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
 
 [6 <./6.png>]
-<7.png, id=465, 583.05328pt x 93.34875pt>
+<7.png, id=471, 583.05328pt x 93.34875pt>
 File: 7.png Graphic file (type png)
 <use 7.png>
-Package pdftex.def Info: 7.png  used on input line 314.
-(pdftex.def)             Requested size: 345.0pt x 55.23622pt.
+Package pdftex.def Info: 7.png  used on input line 324.
+(pdftex.def)             Requested size: 472.03123pt x 75.57503pt.
 
 
-[7]
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 366.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
-[8 <./7.png>]
-<8.png, id=485, 462.22687pt x 90.71391pt>
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[7 <./7.png>]
+<8.png, id=486, 462.22687pt x 90.71391pt>
 File: 8.png Graphic file (type png)
 <use 8.png>
-Package pdftex.def Info: 8.png  used on input line 361.
-(pdftex.def)             Requested size: 345.0pt x 67.70859pt.
+Package pdftex.def Info: 8.png  used on input line 371.
+(pdftex.def)             Requested size: 472.03123pt x 92.63907pt.
 
 
-[9 <./8.png>]
-Overfull \hbox (22.9205pt too wide) in paragraph at lines 403--403
- []  \OT1/cmtt/m/n/10.53937 gzip -c "$LOG_FILE" > "$ARCHIVE_DIR/$DATE/$FILE_NAM
-E.gz"[] 
- []
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 413.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
-<9.png, id=493, 552.94078pt x 86.94984pt>
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[8 <./8.png>]
+<9.png, id=494, 552.94078pt x 86.94984pt>
 File: 9.png Graphic file (type png)
 <use 9.png>
-Package pdftex.def Info: 9.png  used on input line 408.
-(pdftex.def)             Requested size: 345.0pt x 54.25063pt.
+Package pdftex.def Info: 9.png  used on input line 418.
+(pdftex.def)             Requested size: 472.03123pt x 74.22612pt.
 
 
-[10 <./9.png>]
-<10.png, id=509, 364.36125pt x 83.18578pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 466.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[9 <./9.png>]
+<10.png, id=508, 364.36125pt x 83.18578pt>
 File: 10.png Graphic file (type png)
 <use 10.png>
-Package pdftex.def Info: 10.png  used on input line 461.
-(pdftex.def)             Requested size: 345.0pt x 78.76836pt.
+Package pdftex.def Info: 10.png  used on input line 471.
+(pdftex.def)             Requested size: 472.03123pt x 107.77211pt.
 
 
-[11]
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 475.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
-[12 <./10.png>]
-<11.png, id=530, 594.34547pt x 341.77687pt>
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[10]
+
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 512.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[11 <./10.png>]
+<11.png, id=531, 594.34547pt x 341.77687pt>
 File: 11.png Graphic file (type png)
 <use 11.png>
-Package pdftex.def Info: 11.png  used on input line 507.
-(pdftex.def)             Requested size: 345.0pt x 198.38718pt.
-<111.png, id=531, 584.5589pt x 351.56343pt>
+Package pdftex.def Info: 11.png  used on input line 517.
+(pdftex.def)             Requested size: 472.03123pt x 271.44012pt.
+<111.png, id=532, 584.5589pt x 351.56343pt>
 File: 111.png Graphic file (type png)
 <use 111.png>
-Package pdftex.def Info: 111.png  used on input line 516.
-(pdftex.def)             Requested size: 345.0pt x 207.49571pt.
+Package pdftex.def Info: 111.png  used on input line 526.
+(pdftex.def)             Requested size: 472.03123pt x 283.89577pt.
 
 
-[13 <./11.png>]
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 530.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
-[14 <./111.png>]
-<12.png, id=548, 581.17125pt x 84.315pt>
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[12 <./11.png>]
+
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 563.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[13 <./111.png>]
+<12.png, id=549, 581.17125pt x 84.315pt>
 File: 12.png Graphic file (type png)
 <use 12.png>
-Package pdftex.def Info: 12.png  used on input line 558.
-(pdftex.def)             Requested size: 345.0pt x 50.05289pt.
-
-Overfull \hbox (33.98672pt too wide) in paragraph at lines 595--595
- []\OT1/cmtt/m/n/10.53937 echo "===================================" >> "$REPOR
-T_FILE"[] 
- []
+Package pdftex.def Info: 12.png  used on input line 568.
+(pdftex.def)             Requested size: 472.03123pt x 68.48259pt.
 
 
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 605.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
-[15 <./12.png>]
-<13.png, id=557, 580.04204pt x 195.35484pt>
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[14 <./12.png>]
+<13.png, id=559, 580.04204pt x 195.35484pt>
 File: 13.png Graphic file (type png)
 <use 13.png>
-Package pdftex.def Info: 13.png  used on input line 600.
-(pdftex.def)             Requested size: 345.0pt x 116.19434pt.
-<14.png, id=559, 516.42938pt x 147.55125pt>
+Package pdftex.def Info: 13.png  used on input line 610.
+(pdftex.def)             Requested size: 472.03123pt x 158.97878pt.
+<14.png, id=561, 516.42938pt x 147.55125pt>
 File: 14.png Graphic file (type png)
 <use 14.png>
-Package pdftex.def Info: 14.png  used on input line 623.
-(pdftex.def)             Requested size: 345.0pt x 98.57512pt.
+Package pdftex.def Info: 14.png  used on input line 633.
+(pdftex.def)             Requested size: 472.03123pt x 134.87071pt.
 
 
-[16 <./13.png>]
-<15.png, id=570, 585.31172pt x 351.56343pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 645.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[15 <./13.png> <./14.png>]
+<15.png, id=572, 585.31172pt x 351.56343pt>
 File: 15.png Graphic file (type png)
 <use 15.png>
-Package pdftex.def Info: 15.png  used on input line 646.
-(pdftex.def)             Requested size: 345.0pt x 207.2275pt.
-<151.png, id=571, 595.47469pt x 353.06906pt>
+Package pdftex.def Info: 15.png  used on input line 656.
+(pdftex.def)             Requested size: 472.03123pt x 283.53099pt.
+<151.png, id=573, 595.47469pt x 353.06906pt>
 File: 151.png Graphic file (type png)
 <use 151.png>
-Package pdftex.def Info: 151.png  used on input line 654.
-(pdftex.def)             Requested size: 345.0pt x 204.55392pt.
+Package pdftex.def Info: 151.png  used on input line 664.
+(pdftex.def)             Requested size: 472.03123pt x 279.87506pt.
 
 
-[17 <./14.png>]
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 668.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
-[18 <./15.png> <./151.png>]
-<16.png, id=589, 386.94562pt x 137.38828pt>
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[16 <./15.png>]
+<16.png, id=583, 386.94562pt x 137.38828pt>
 File: 16.png Graphic file (type png)
 <use 16.png>
-Package pdftex.def Info: 16.png  used on input line 677.
-(pdftex.def)             Requested size: 345.0pt x 122.49738pt.
+Package pdftex.def Info: 16.png  used on input line 687.
+(pdftex.def)             Requested size: 472.03123pt x 167.60085pt.
 
 
-[19 <./16.png>]
-Overfull \hbox (100.38406pt too wide) in paragraph at lines 714--714
- []  \OT1/cmtt/m/n/10.53937 ARCHIVE_FILE="$ARCHIVE_DIR/$(basename "$LOG_FILE").
-$(date +%Y%m%d).gz"[] 
- []
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 691.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-Overfull \hbox (51.90433pt too wide) in paragraph at lines 714--714
- []  \OT1/cmtt/m/n/10.53937 echo "\C70/zhfs/m/n/10.53937/5d � \C70/zhfs/m/n/10.
-53937/5f R \C70/zhfs/m/n/10.53937/68 c \C70/zhfs/m/n/10.53937/65 � \C70/zhfs/m/
-n/10.53937/5f � \C70/zhfs/m/n/10.53937/65 � \C70/zhfs/m/n/10.53937/4e � \OT1/cm
-tt/m/n/10.53937 $(basename "$LOG_FILE") \C70/zhfs/m/n/10.53937/52 0 \OT1/cmtt/m
-/n/10.53937 $ARCHIVE_FILE"[] 
- []
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
 
+[17 <./151.png>]
 
-Overfull \hbox (83.78473pt too wide) in paragraph at lines 714--714
- []\OT1/cmtt/m/n/10.53937 find "$ARCHIVE_DIR" -type f -mtime +"$DAYS_TO_KEEP" -
-exec rm -f {} \;[] 
- []
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 724.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
-<17.png, id=599, 494.2214pt x 106.52296pt>
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[18 <./16.png>]
+<17.png, id=600, 494.2214pt x 106.52296pt>
 File: 17.png Graphic file (type png)
 <use 17.png>
-Package pdftex.def Info: 17.png  used on input line 719.
-(pdftex.def)             Requested size: 345.0pt x 74.35913pt.
-
-
-[20 <./17.png>]
-<21.png, id=608, 882.29625pt x 448.29985pt>
+Package pdftex.def Info: 17.png  used on input line 729.
+(pdftex.def)             Requested size: 472.03123pt x 101.7391pt.
+<21.png, id=602, 882.29625pt x 448.29985pt>
 File: 21.png Graphic file (type png)
 <use 21.png>
-Package pdftex.def Info: 21.png  used on input line 784.
-(pdftex.def)             Requested size: 345.0pt x 175.29454pt.
+Package pdftex.def Info: 21.png  used on input line 794.
+(pdftex.def)             Requested size: 472.03123pt x 239.84146pt.
 
 
-[21 <./21.png>]
-<22.png, id=620, 596.2275pt x 332.74312pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 798.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[19 <./17.png>]
+<22.png, id=614, 596.2275pt x 332.74312pt>
 File: 22.png Graphic file (type png)
 <use 22.png>
-Package pdftex.def Info: 22.png  used on input line 810.
-(pdftex.def)             Requested size: 345.0pt x 192.53926pt.
+Package pdftex.def Info: 22.png  used on input line 820.
+(pdftex.def)             Requested size: 472.03123pt x 263.43282pt.
 
 
-[22 <./22.png>]
-<23.png, id=632, 604.50844pt x 286.06876pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 824.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[20 <./21.png>]
+<23.png, id=624, 604.50844pt x 286.06876pt>
 File: 23.png Graphic file (type png)
 <use 23.png>
-Package pdftex.def Info: 23.png  used on input line 841.
-(pdftex.def)             Requested size: 345.0pt x 163.26167pt.
+Package pdftex.def Info: 23.png  used on input line 851.
+(pdftex.def)             Requested size: 472.03123pt x 223.37717pt.
+
+
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 855.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[21 <./22.png>]
 <24.png, id=633, 604.50844pt x 291.71484pt>
 File: 24.png Graphic file (type png)
 <use 24.png>
-Package pdftex.def Info: 24.png  used on input line 869.
-(pdftex.def)             Requested size: 345.0pt x 166.48393pt.
+Package pdftex.def Info: 24.png  used on input line 879.
+(pdftex.def)             Requested size: 472.03123pt x 227.7859pt.
 
 
-[23 <./23.png>]
-<25.png, id=641, 601.4972pt x 292.84406pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 883.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[22 <./23.png>]
+<25.png, id=642, 601.4972pt x 292.84406pt>
 File: 25.png Graphic file (type png)
 <use 25.png>
-Package pdftex.def Info: 25.png  used on input line 895.
-(pdftex.def)             Requested size: 345.0pt x 167.97292pt.
+Package pdftex.def Info: 25.png  used on input line 905.
+(pdftex.def)             Requested size: 472.03123pt x 229.82053pt.
 
 
-[24 <./24.png>]
-<26.png, id=652, 599.99156pt x 237.13594pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 909.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[23 <./24.png>]
+<26.png, id=653, 599.99156pt x 237.13594pt>
 File: 26.png Graphic file (type png)
 <use 26.png>
-Package pdftex.def Info: 26.png  used on input line 920.
-(pdftex.def)             Requested size: 345.0pt x 136.35933pt.
+Package pdftex.def Info: 26.png  used on input line 930.
+(pdftex.def)             Requested size: 472.03123pt x 186.56822pt.
 
 
-[25 <./25.png>]
-<27.png, id=661, 604.50844pt x 355.7039pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 934.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[24 <./25.png>]
+<27.png, id=662, 604.50844pt x 355.7039pt>
 File: 27.png Graphic file (type png)
 <use 27.png>
-Package pdftex.def Info: 27.png  used on input line 943.
-(pdftex.def)             Requested size: 345.0pt x 203.00299pt.
+Package pdftex.def Info: 27.png  used on input line 953.
+(pdftex.def)             Requested size: 472.03123pt x 277.75186pt.
 
 
-[26 <./26.png>]
-<28.png, id=669, 603.75563pt x 249.93375pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 957.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[25 <./26.png>]
+<28.png, id=670, 603.75563pt x 249.93375pt>
 File: 28.png Graphic file (type png)
 <use 28.png>
-Package pdftex.def Info: 28.png  used on input line 972.
-(pdftex.def)             Requested size: 345.0pt x 142.81839pt.
+Package pdftex.def Info: 28.png  used on input line 982.
+(pdftex.def)             Requested size: 472.03123pt x 195.40518pt.
 
 
-[27 <./27.png>]
-<291.png, id=678, 598.10953pt x 350.81062pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 986.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[26 <./27.png>]
+<291.png, id=679, 598.10953pt x 350.81062pt>
 File: 291.png Graphic file (type png)
 <use 291.png>
-Package pdftex.def Info: 291.png  used on input line 997.
-(pdftex.def)             Requested size: 345.0pt x 202.35689pt.
-<292.png, id=679, 598.48593pt x 357.58594pt>
+Package pdftex.def Info: 291.png  used on input line 1007.
+(pdftex.def)             Requested size: 472.03123pt x 276.86435pt.
+<292.png, id=680, 598.48593pt x 357.58594pt>
 File: 292.png Graphic file (type png)
 <use 292.png>
-Package pdftex.def Info: 292.png  used on input line 998.
-(pdftex.def)             Requested size: 345.0pt x 206.13411pt.
-<293.png, id=680, 598.86235pt x 361.35pt>
+Package pdftex.def Info: 292.png  used on input line 1008.
+(pdftex.def)             Requested size: 472.03123pt x 282.03691pt.
+<293.png, id=681, 598.86235pt x 361.35pt>
 File: 293.png Graphic file (type png)
 <use 293.png>
-Package pdftex.def Info: 293.png  used on input line 999.
-(pdftex.def)             Requested size: 345.0pt x 208.17163pt.
+Package pdftex.def Info: 293.png  used on input line 1009.
+(pdftex.def)             Requested size: 472.03123pt x 284.82378pt.
 
 
-[28 <./28.png>]
-Overfull \vbox (95.10406pt too high) has occurred while \output is active []
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 1013.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[27 <./28.png>]
+Overfull \vbox (219.46025pt too high) has occurred while \output is active []
 
 
 
-[29 <./291.png> <./292.png> <./293.png>]
-<210.png, id=698, 604.50844pt x 356.83313pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 1013.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[28 <./291.png> <./292.png> <./293.png>]
+<210.png, id=699, 604.50844pt x 356.83313pt>
 File: 210.png Graphic file (type png)
 <use 210.png>
-Package pdftex.def Info: 210.png  used on input line 1023.
-(pdftex.def)             Requested size: 345.0pt x 203.64745pt.
+Package pdftex.def Info: 210.png  used on input line 1033.
+(pdftex.def)             Requested size: 472.03123pt x 278.63362pt.
 
 
-[30 <./210.png>]
-Overfull \hbox (11.85428pt too wide) in paragraph at lines 1063--1063
- []\OT1/cmtt/m/n/10.53937 grep -iE 's.*s.*s' /usr/share/dict/words | grep -vi '
-s$'[] 
- []
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 1073.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-Overfull \hbox (33.98672pt too wide) in paragraph at lines 1063--1063
- []\OT1/cmtt/m/n/10.53937 grep -iE 's.*s.*s' /usr/share/dict/words | grep -vi '
-s$' | \[] 
- []
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
 
-<31.png, id=711, 590.205pt x 152.44453pt>
+[29 <./210.png>]
+<31.png, id=709, 590.205pt x 152.44453pt>
 File: 31.png Graphic file (type png)
 <use 31.png>
-Package pdftex.def Info: 31.png  used on input line 1068.
-(pdftex.def)             Requested size: 345.0pt x 89.11107pt.
-
-Overfull \hbox (0.78806pt too wide) in paragraph at lines 1115--1115
- []    \OT1/cmtt/m/n/10.53937 journalctl -b -$i | grep -i 'startup finished' | 
-\[] 
- []
+Package pdftex.def Info: 31.png  used on input line 1078.
+(pdftex.def)             Requested size: 472.03123pt x 121.92322pt.
 
 
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 1125.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
-[31 <./31.png>]
-Overfull \hbox (17.38739pt too wide) in paragraph at lines 1115--1115
- []        \OT1/cmtt/m/n/10.53937 median = (times[NR / 2] + times[NR / 2 + 1]) 
-/ 2;[] 
- []
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
 
-Overfull \hbox (0.78806pt too wide) in paragraph at lines 1115--1115
- []    \OT1/cmtt/m/n/10.53937 printf "Median Boot Time: %.2f seconds\n", median
-;[] 
- []
-
-<32.png, id=720, 499.49109pt x 270.25969pt>
+[30 <./31.png>]
+<32.png, id=718, 499.49109pt x 270.25969pt>
 File: 32.png Graphic file (type png)
 <use 32.png>
-Package pdftex.def Info: 32.png  used on input line 1120.
-(pdftex.def)             Requested size: 345.0pt x 186.67319pt.
+Package pdftex.def Info: 32.png  used on input line 1130.
+(pdftex.def)             Requested size: 472.03123pt x 255.40912pt.
 
 
-[32]
-Overfull \hbox (6.32117pt too wide) in paragraph at lines 1153--1153
- []\OT1/cmtt/m/n/10.53937 sed 's/^[^ ]* //' boot_log_0.txt > clean_boot_log_0.t
-xt[] 
- []
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 1134.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-Overfull \hbox (6.32117pt too wide) in paragraph at lines 1153--1153
- []\OT1/cmtt/m/n/10.53937 sed 's/^[^ ]* //' boot_log_1.txt > clean_boot_log_1.t
-xt[] 
- []
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
 
-
-Overfull \hbox (6.32117pt too wide) in paragraph at lines 1153--1153
- []\OT1/cmtt/m/n/10.53937 sed 's/^[^ ]* //' boot_log_2.txt > clean_boot_log_2.t
-xt[] 
- []
-
-
-Overfull \hbox (271.91052pt too wide) in paragraph at lines 1153--1153
+[31]
+Overfull \hbox (144.87929pt too wide) in paragraph at lines 1163--1163
  []\OT1/cmtt/m/n/10.53937 cat clean_boot_log_0.txt clean_boot_log_1.txt clean_b
 oot_log_2.txt | sort | uniq -c > all_boot_logs.txt[] 
  []
 
 
 
-[33 <./32.png>]
-<33.png, id=733, 601.12079pt x 331.2375pt>
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 1163.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[32 <./32.png>]
+<33.png, id=731, 601.12079pt x 331.2375pt>
 File: 33.png Graphic file (type png)
 <use 33.png>
-Package pdftex.def Info: 33.png  used on input line 1158.
-(pdftex.def)             Requested size: 345.0pt x 190.11133pt.
+Package pdftex.def Info: 33.png  used on input line 1168.
+(pdftex.def)             Requested size: 472.03123pt x 260.11298pt.
 
-
-[34 <./33.png>]
-Overfull \hbox (22.06726pt too wide) in paragraph at lines 1236--1242
-\C70/rm/m/n/10.53937/4e - \C70/rm/m/n/10.53937/6d � \C70/rm/m/n/10.53937/52 �|\
-C70/rm/m/n/10.53937/ff ^^Z| \OT1/cmr/m/n/10.53937 // call plug be-gin(' /.vim/p
-lugged')// Plug 'tpope/vim-sensible'//
+Overfull \hbox (144.87929pt too wide) in paragraph at lines 1200--1200
+ []\OT1/cmtt/m/n/10.53937 cat clean_boot_log_0.txt clean_boot_log_1.txt clean_b
+oot_log_2.txt | sort | uniq -c > all_boot_logs.txt[] 
  []
 
 
-Overfull \hbox (22.31265pt too wide) in paragraph at lines 1252--1253
-\C70/rm/m/n/10.53937/67 , \C70/rm/m/n/10.53937/76 � \C70/rm/m/n/10.53937/8c ^^C
- \C70/rm/m/n/10.53937/8b � \C70/rm/m/n/10.53937/76 � \C70/rm/m/n/10.53937/5b � 
-\C70/rm/m/n/10.53937/56 � \C70/rm/m/n/10.53937/96 �|\C70/rm/m/n/10.53937/ff ^^L
-| \C70/rm/m/n/10.53937/72 y \C70/rm/m/n/10.53937/52 + \C70/rm/m/n/10.53937/66 /
- \C70/rm/m/n/10.53937/5f S \C70/rm/m/n/10.53937/81 ^^Z \C70/rm/m/n/10.53937/67 
-, \C70/rm/m/n/10.53937/53 � \C70/rm/m/n/10.53937/5f � \C70/rm/m/n/10.53937/59 ^
-^M \C70/rm/m/n/10.53937/67 B \C70/rm/m/n/10.53937/65 �|\C70/rm/m/n/10.53937/ff 
-^^L| \C70/rm/m/n/10.53937/80 ^^L \C70/rm/m/n/10.53937/4e ^^T ^^M \C70/rm/m/n/10
-.53937/54 ^^L \C70/rm/m/n/10.53937/76 �\OT1/cmr/m/n/10.53937 Shell |\C70/rm/m/n
-/10.53937/ff ^^H|\C70/rm/m/n/10.53937/59 �\OT1/cmr/m/n/10.53937 Bash|\C70/rm/m/
-n/10.53937/30 ^^A|
+
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 1200.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[33 <./33.png>]
+File: 33.png Graphic file (type png)
+<use 33.png>
+Package pdftex.def Info: 33.png  used on input line 1205.
+(pdftex.def)             Requested size: 472.03123pt x 260.11298pt.
+
+
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 1267.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1315--1316
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1253
 
- []
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 1336.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
 
 [35]
+
+File: okkl.jpg Graphic file (type jpg)
+<use okkl.jpg>
+Package pdftex.def Info: okkl.jpg  used on input line 1336.
+(pdftex.def)             Requested size: 42.67912pt x 10.71011pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.50432pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.50432pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.50432pt}.
 
 [36] (./於佳杰的LATEX.aux)
  ***********
@@ -1730,63 +2105,63 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
 
 Package rerunfilecheck Info: File `於佳杰的LATEX.out' has not changed.
-(rerunfilecheck)             Checksum: 827096D0DE8E2F925D549EC04155D106;4883.
+(rerunfilecheck)             Checksum: 7E652580B8B422B3290816B10593417C;5007.
  ) 
 Here is how much of TeX's memory you used:
- 40276 strings out of 473579
- 910684 string characters out of 5729245
- 1943960 words of memory out of 5000000
- 62000 multiletter control sequences out of 15000+600000
- 627135 words of font info for 287 fonts, out of 8000000 for 9000
+ 40783 strings out of 473579
+ 918395 string characters out of 5729245
+ 1951960 words of memory out of 5000000
+ 62495 multiletter control sequences out of 15000+600000
+ 626595 words of font info for 285 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 88i,7n,92p,1207b,783s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,15n,92p,1207b,785s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
-imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows
-/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
-/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfa
-ng.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/F
-onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:/
+imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
+/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c
+:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simf
+ang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
+onts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c
+:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/sim
+fang.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/
+Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simsun.ttc><c
+:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfa
+ng.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
+onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
+indows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang
+.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
+ts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/W
+indows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfan
+g.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
+ts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/
+Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simhe
+i.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/F
+onts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simsun.ttc><c:
+/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simsu
+n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
+ts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/
 Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfa
 ng.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/
-Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:
-/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhe
-i.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fo
-nts/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
-indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.t
-tf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Font
-s/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Win
-dows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.
-ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fon
-ts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:/Wi
-ndows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang
-.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
-ts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/
-Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei
-.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
-ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simfang.ttf><c:/Wi
+Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><
+c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/si
+mfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windo
+ws/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.tt
+f><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts
+/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Wi
 ndows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang
 .ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fo
 nts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:
-/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simf
-ang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows
-/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf>
-<c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/s
-imfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Wind
-ows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.t
-tf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Font
-s/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/W
-indows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfan
-g.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
+/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
+n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
 ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
-dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf
+dows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
 ><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
-msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/
+mhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/
 Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/
-Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.
-ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
+Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
+ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts
 /simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windo
-ws/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><
-c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
+ws/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><
+c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
 un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
 nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
 ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
@@ -1798,26 +2173,25 @@ imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
 s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
 ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
 <c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
-sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
-onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
-indows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
+sun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
+onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/W
+indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
 tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
 simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
-s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
+s/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c
 :/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
 i.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
-ts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Win
-dows/Fonts/simhei.ttf><c:/latex/texlive/2024/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmbx10.pfb><c:/latex/texlive/2024/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb><c:/latex/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><c:/latex/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r12.pfb><c:/latex/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10
-.pfb><c:/latex/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
-b><c:/latex/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on 於佳杰的LATEX.pdf (39 pages, 2130288 bytes).
+ts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/latex/texlive/2024/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmbx10.pfb><c:/latex/texlive/2024/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb><c:/latex/texlive/2024/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><c:/latex/texlive/2024/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb><c:/latex/texlive/2024/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmtt10.pfb><c:/latex/texlive/2024/texmf-dist/fonts/type1/public/
+cm-super/sfrm1000.pfb>
+Output written on 於佳杰的LATEX.pdf (39 pages, 2166017 bytes).
 PDF statistics:
- 1369 PDF objects out of 1440 (max. 8388607)
- 983 compressed objects within 10 object streams
- 137 named destinations out of 1000 (max. 500000)
- 780 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1375 PDF objects out of 1440 (max. 8388607)
+ 992 compressed objects within 10 object streams
+ 148 named destinations out of 1000 (max. 500000)
+ 793 words of extra memory for PDF output out of 10000 (max. 10000000)
 
