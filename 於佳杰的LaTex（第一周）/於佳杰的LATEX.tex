@@ -1254,36 +1254,50 @@ git show 09c08a2
 
 
 
+\begin{enumerate}
+\item
 \begin{itemize}
 \item 问题：图片/表格插入跳行！！
 \item 解决方案：通过float包解决
-
+\end{itemize}
+\item
+\begin{itemize}
 \item 问题：检查了好几个小时一直编译不通过!!!
 \item 解决方案：因为aux文件没有完整输入，导致上次编译结束后aux文件的部分内容缺失。删除编译文件夹内.aux扩展名结尾的文件，重新用Latex命令进行编译，自动生成正确的aux文件，完成错误的修复。
-
+\end{itemize}
+\item
+\begin{itemize}
 \item 问题：编译成功但是目录没有显示
 \item 解决方案：多编译两次
  \end{itemize}
+\end{enumerate}
 
 
 \subsection{git}
-
+\begin{enumerate}
+\item
 \begin{itemize}
 \item 问题：无法克隆
 \item 解决方案：问题是由于没有配置信任的服务器HTTPS验证。默认，cURL被设为不信任任何CAs，就是说，它不信任任何服务器验证。执行下面命令就可以解决\\
 git config --global http.sslVerify false
-
-
+\end{itemize}
+\item
+\begin{itemize}
 \item 问题： 切换分支报错：有文件未跟踪
 \item 解决方案：尝试删除项目，然后从新安装，或者直接从现有的项目中把文件夹复制过来
-
+\end{itemize}
+\item
+\begin{itemize}
 \item 问题：git rm --cached 报错：recursively without -r
 \item 解决方案：命令加上-f即可
+\end{itemize}
 
+\item
+\begin{itemize}
 \item 问题：同一个文件跟踪两次
 \item 解决方案：使用git rm --cached来取消对重命名之前的文件跟踪
  \end{itemize}
-
+\end{enumerate}
 
 
 
@@ -1299,6 +1313,7 @@ git config --global http.sslVerify false
 
   \section{github网址}
 \href{https://github.com/KeepingMoving/work1.git}{GitHub仓库}
+https://github.com/KeepingMoving/work1.git
  
 
 
