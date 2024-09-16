@@ -1,0 +1,41 @@
+\contentsline {section}{\numberline {1}实验目的}{1}{section.1}%
+\contentsline {section}{\numberline {2}实例展示}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}调试及性能分析}{1}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}在 Linux上使用可获取最后一天的超级用户访问权限和命令。}{1}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}安装 shellcheck 并尝试检查以下脚本。}{2}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}查看占用进程的pid}{3}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}运行并使用 可视化 CPU 消耗。}{4}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}执行 HTTP 请求并获取有关您的公有 IP 的信息。}{5}{subsubsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.6}使用 GDB 调试 C/C++ 程序}{6}{subsubsection.2.1.6}%
+\contentsline {subsubsection}{\numberline {2.1.7}使用 strace 跟踪系统调用}{7}{subsubsection.2.1.7}%
+\contentsline {subsubsection}{\numberline {2.1.8}检测内存泄漏}{8}{subsubsection.2.1.8}%
+\contentsline {subsubsection}{\numberline {2.1.9}使用 perf 分析程序性能}{10}{subsubsection.2.1.9}%
+\contentsline {subsection}{\numberline {2.2}元编程演示实验}{11}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}make 重新构建}{11}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}动态创建类和方法}{12}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}动态属性添加}{13}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}使用元类进行属性验证}{14}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}使用装饰器进行方法计时}{15}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}使用元类实现只读属性}{16}{subsubsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.7}使用装饰器进行方法日志记录 }{18}{subsubsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.3}大杂烩}{19}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Markdown表格}{19}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Markdown嵌套列表}{21}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}引用块}{22}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4} 任务列表}{23}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}自定义链接和图片}{24}{subsubsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.4}PyTorch编程}{25}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}自定义自动微分}{25}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}动态计算图}{26}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}自定义数据集}{27}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}线性回归}{28}{subsubsection.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.5}神经网络分类器}{30}{subsubsection.2.4.5}%
+\contentsline {subsubsection}{\numberline {2.4.6}卷积神经网络（CNN）进行图像分类}{32}{subsubsection.2.4.6}%
+\contentsline {subsubsection}{\numberline {2.4.7}循环神经网络（RNN）进行序列预测}{34}{subsubsection.2.4.7}%
+\contentsline {subsubsection}{\numberline {2.4.8}自定义数据集和数据加载器}{38}{subsubsection.2.4.8}%
+\contentsline {section}{\numberline {3}困难与解决方案}{40}{section.3}%
+\contentsline {subsection}{\numberline {3.1}调试及性能分析}{40}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}元编程演示}{41}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}PyTorch编程}{41}{subsection.3.3}%
+\contentsline {section}{\numberline {4}心得体会}{41}{section.4}%
+\contentsline {section}{\numberline {5}github网址}{42}{section.5}%
